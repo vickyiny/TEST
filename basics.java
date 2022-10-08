@@ -21,7 +21,7 @@ public class basics {
 	
 	String url = page.url();
 	System.out.println("url is :"+ url);
-	
+	System.out.println("url is :"+ url);
 	Browser.close();
 	
 		
